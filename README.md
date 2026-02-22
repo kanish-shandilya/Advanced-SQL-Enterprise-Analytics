@@ -5,6 +5,12 @@ This project simulates an enterprise retail analytics environment where SQL is u
 
 The objective is to demonstrate advanced SQL proficiency while applying real-world business intelligence concepts commonly used in analytics consulting firms.
 
+## Dataset Information
+
+The original Online Retail dataset (~83MB) is excluded due to GitHub size limitations.
+
+A representative sample dataset (10,000 rows) is included for reference.
+
 🎯 Business Context
 
 An international retail organization seeks to:
@@ -250,5 +256,6 @@ Churn probability modeling
 Dashboard integration (Power BI)
 
 Final Note
+
 
 This project focuses on advanced SQL analytics within a business intelligence framework, demonstrating the ability to transform raw transactional data into strategic decision-making insights.
